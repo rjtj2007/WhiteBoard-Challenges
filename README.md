@@ -1,1 +1,2 @@
-# WhiteBoard-Challengrs
+# WhiteBoard-Challenges
+
