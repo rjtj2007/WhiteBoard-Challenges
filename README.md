@@ -1,2 +1,0 @@
-# WhiteBoard-Challenges
-
